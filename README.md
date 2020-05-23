@@ -9,19 +9,6 @@ JWT authentication boilerplate with nuxt.js static site, flask, and mongodb
 3. Install nodejs
 4. Clone repo `git clone git@github.com:robyedlin/nuxt-flask-jwt.git`
 5. Run `cd nuxt-flask-jwt`
-
-### Flask
-
-Start in project root
-
-1. Run `cd flask`
-2. Run `python3 -m venv .venv`
-
-### Nuxt
-
-Start in project root
-
-1. Run `cd nuxt`
 2. Run `python3 -m venv .venv`
 
 ## Development
